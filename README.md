@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working at Bitize
-- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, NestJS, TypeScript, ReactJS, NextJS, Python, GIT, SQL, Kubernetes
+- 🌱 I’m currently learning JavaScript, NodeJS, NestJS, TypeScript,  Python, Airflow, GIT, SQL, Docker, Kubernetes
 - 📫 How to reach me: @luan_vendt
 
